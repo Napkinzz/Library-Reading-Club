@@ -46,9 +46,9 @@ by a hash symbol ("#"), as can be seen in the sample booksRead.txt provided with
 description. You can assume that any library cards recorded in this file belong to a participant from
 participants.txt. However, you cannot assume that the lines in this file are in any sort of order.   
 ## Output
-### Initialization:
+### Initialization:   
 When the program first starts, it should display a welcome banner, followed by a prompt asking the
-librarian to enter in the club’s start date. It should look exactly like this:   
+librarian to enter in the club’s start date. It should look exactly like this:    
 ---  
 
  ************************************
