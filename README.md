@@ -2,8 +2,9 @@
 Due Date: Wednesday, October 14th 2020 at 23:55 (Edmonton time)   
 Percentage overall grade: 6%   
 Penalties: No late assignments allowed   
-Maximum marks: 100   
-## Goal: refresher of Python and hands-on experience with file input/output, built-in data structures
+Maximum marks: 100    
+## Goal:  
+Refresher of Python and hands-on experience with file input/output, built-in data structures
 (especially dictionaries), and string manipulation.  
 ## Assignment Problem  
 Every summer, Edmonton Public Library (EPL) has a Summer Reading Club that aims to encourage
@@ -15,7 +16,7 @@ EPL has hired you to write a Python program that will allow librarians to:
  generate a report for a given participant that summarizes how many books they have read and
 what level they are currently on; and
  see a summary of the club activity so far.   
-## Input
+## Input    
 EPL will provide you with THREE text files. The content of these files will be updated periodically, so
 your program must be able to read the most up-to-date information from them every time it is run.   
 The first text file is called clubLevels.txt, and it contains information about different themes for the club.   
@@ -45,8 +46,8 @@ loaned, the reader’s library card number, and the name of the book. All of the
 by a hash symbol ("#"), as can be seen in the sample booksRead.txt provided with the assignment
 description. You can assume that any library cards recorded in this file belong to a participant from
 participants.txt. However, you cannot assume that the lines in this file are in any sort of order.   
-## Output
-### Initialization:   
+## Output   
+### Initialization:     
 When the program first starts, it should display a welcome banner, followed by a prompt asking the
 librarian to enter in the club’s start date. It should look exactly like this:    
 ---  
